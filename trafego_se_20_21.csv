@@ -1,0 +1,201 @@
+concessionaria,mes_ano,sentido,praca,categoria,tipo_de_veiculo,volume_total,praca_id,br,km,uf
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,638285,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,797411,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,536081,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,731338,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,449206,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,633160,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,79176,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,84694,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,74026,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,76991,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,75412,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,81429,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,1021,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,1180,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,884,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,977,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,800,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,915,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,50861,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,47562,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,46328,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,42037,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,50365,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,45240,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,133,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,157,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,147,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,144,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,113,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,127,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,33020,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,28108,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,30984,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,26075,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,33763,Pra�a 01,116,"  204,50",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 3,Passeio,1982,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,28261,Pra�a 01,116,"  204,50",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 1,Passeio,763232,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 1,Passeio,876710,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 1,Passeio,329707,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 1,Passeio,402972,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 1,Passeio,201258,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 1,Passeio,258647,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 1,Passeio,142308,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 1,Passeio,191812,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 1,Passeio,134359,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 1,Passeio,177488,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 06 BR-381/MG km 659,Categoria 1,Passeio,120245,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 06 BR-381/MG km 659,Categoria 1,Passeio,158379,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 1,Passeio,123962,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 1,Passeio,159237,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 08 BR-381/MG km 546,Categoria 1,Passeio,156293,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 08 BR-381/MG km 546,Categoria 1,Passeio,187050,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 2,Comercial,57038,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 2,Comercial,57226,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 2,Comercial,40580,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 2,Comercial,42880,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 2,Comercial,31788,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 2,Comercial,31726,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 2,Comercial,24974,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 2,Comercial,27053,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 2,Comercial,23841,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 2,Comercial,25282,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 06 BR-381/MG km 659,Categoria 2,Comercial,20861,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 06 BR-381/MG km 659,Categoria 2,Comercial,22352,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 2,Comercial,21068,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 2,Comercial,22645,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 08 BR-381/MG km 546,Categoria 2,Comercial,23606,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 08 BR-381/MG km 546,Categoria 2,Comercial,25053,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 3,Passeio,2330,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 3,Passeio,1555,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 3,Passeio,1874,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 3,Passeio,1189,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 3,Passeio,1468,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 3,Passeio,1124,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 3,Passeio,1383,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 3,Passeio,1069,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 3,Passeio,1282,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 06 BR-381/MG km 659,Categoria 3,Passeio,933,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 06 BR-381/MG km 659,Categoria 3,Passeio,1119,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 3,Passeio,997,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 3,Passeio,1124,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 08 BR-381/MG km 546,Categoria 3,Passeio,1282,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 08 BR-381/MG km 546,Categoria 3,Passeio,1433,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 4,Comercial,36090,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 4,Comercial,39942,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,18460,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,17287,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,18046,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,16426,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,20164,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,18523,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,18775,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,16072,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,17952,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,14530,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,19217,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,17709,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 9,Moto,17970,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 9,Moto,35215,Pra�a 01,116,"  204,50",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 1,Passeio,763232,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 1,Passeio,876710,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 1,Passeio,329707,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 1,Passeio,402972,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 1,Passeio,201258,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 1,Passeio,258647,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 1,Passeio,142308,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 1,Passeio,191812,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 1,Passeio,134359,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 1,Passeio,177488,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 06 BR-381/MG km 659,Categoria 1,Passeio,120245,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 06 BR-381/MG km 659,Categoria 1,Passeio,158379,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 1,Passeio,123962,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 1,Passeio,159237,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 08 BR-381/MG km 546,Categoria 1,Passeio,156293,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 08 BR-381/MG km 546,Categoria 1,Passeio,187050,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 2,Comercial,57038,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 2,Comercial,57226,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 2,Comercial,40580,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 2,Comercial,42880,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 2,Comercial,31788,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 2,Comercial,31726,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 2,Comercial,24974,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 2,Comercial,27053,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 2,Comercial,23841,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 2,Comercial,25282,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 06 BR-381/MG km 659,Categoria 2,Comercial,20861,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 06 BR-381/MG km 659,Categoria 2,Comercial,22352,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 2,Comercial,21068,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 2,Comercial,22645,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 08 BR-381/MG km 546,Categoria 2,Comercial,23606,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 08 BR-381/MG km 546,Categoria 2,Comercial,25053,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 3,Passeio,1982,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 3,Passeio,2330,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 3,Passeio,1555,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 02 BR-381/SP km 7,30",Categoria 3,Passeio,1874,Pra�a 02,381,"  7,30",SP
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 3,Passeio,1189,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 03 BR-381/MG km 902,63",Categoria 3,Passeio,1468,Pra�a 03,381,"  902,63",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 3,Passeio,1124,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 04 BR-381/MG km 804,88",Categoria 3,Passeio,1383,Pra�a 04,381,"  804,88",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 3,Passeio,1069,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 05 BR-381/MG km 733,74",Categoria 3,Passeio,1282,Pra�a 05,381,"  733,74",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 06 BR-381/MG km 659,Categoria 3,Passeio,933,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 06 BR-381/MG km 659,Categoria 3,Passeio,1119,Pra�a 06,381,"  659",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 3,Passeio,997,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 07 BR-381/MG km 596,935",Categoria 3,Passeio,1124,Pra�a 07,381,"  596,935",MG
+autopista fern�o dias,2021-01-01,Decrescente,Pra�a 08 BR-381/MG km 546,Categoria 3,Passeio,1282,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Crescente,Pra�a 08 BR-381/MG km 546,Categoria 3,Passeio,1433,Pra�a 08,381,"  546",MG
+autopista fern�o dias,2021-01-01,Decrescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 4,Comercial,36090,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+autopista fern�o dias,2021-01-01,Crescente,"Pra�a 01 BR-381/SP Norte: km 65,70 Sul: km 66,80",Categoria 4,Comercial,39942,Pra�a 01,381," Norte:  65,70 Sul:  66,80",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,638285,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,797411,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,536081,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,731338,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,449206,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 1,Passeio,633160,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,79176,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,84694,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,74026,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,76991,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,75412,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 2,Comercial,81429,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,1021,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,1180,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,884,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,977,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,800,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 3,Passeio,915,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,50861,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,47562,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,46328,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,42037,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,50365,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 4,Comercial,45240,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,133,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,157,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,147,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,144,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,113,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 5,Passeio,127,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,33020,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,28108,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,30984,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,26075,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,33763,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 6,Comercial,28261,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,18460,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,17287,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,18046,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,16426,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,20164,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 7,Comercial,18523,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,18775,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,16072,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,17952,Pra�a 01,116,"  204,50",SP
+novadutra,2020-02-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,14530,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,19217,Pra�a 01,116,"  204,50",SP
+novadutra,2020-03-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 8,Comercial,17709,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Crescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 9,Moto,17970,Pra�a 01,116,"  204,50",SP
+novadutra,2020-01-01,Decrescente,"Pra�a 01 BR-116/SP km 204,50",Categoria 9,Moto,35215,Pra�a 01,116,"  204,50",SP

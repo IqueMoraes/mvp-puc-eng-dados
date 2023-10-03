@@ -324,6 +324,8 @@ Como solução, omiti as filtragens temporariamente para executar as transforma�
 Porém, mesmo com tentativas em caminhos diferentes os resultados foram equivocados. A tabela de volume de tráfego de todo o país apresenta dados por mês e possui registro de todos os meses ainda que não de todas as praças. Como nessa tabela a uf não é explícita, a filtragem por Regex não entregou todos os dados corretos. No resultado final só foram identificados os dados de volume dos estados de SP e MG e pelos meses de Janeiro, Fevereiro e Março.
 Não foi encontrada solução para esse problemam, se não a exclusão da filtragem.
 
+Outro problema com filtragens e tratamentos foram distorção dos valores. Uma coluna de temperatura assumiu valor negativo, outras precisaram ser mantidas como string e convertidas  no final dos processos.
+
 Um terceiro ponto diz respeito a linguagem utilizada na plataforma. Parte inicialmente de pouco conhecimento da linguagem SQL, mas torna-se mais dificultoso com a integração em sintaxe própria e uso de métodos e funções da Azure. Não consegui dentro do prazo compreender como seguir de forma simples para resolver questões das expressões em filtrages, agregaçoes, transformações, das inserções de scripts em dataflow e pipeline para criação temporária de tabelas e nas consultas.
 
 Esse projeto foi desenvolvido dusa vezes. A primeira pela plataforma da Google Cloud onde encontrei impasses e na segunda vez pela plataforma Azure onde foi possível realizar com limitações nos resultados.
